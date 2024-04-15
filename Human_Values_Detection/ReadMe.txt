@@ -1,0 +1,2 @@
+This project aims to address multi-label text classification using transformer-based architectures. The methodology of the following academic paper is replicated: Identifying the Human Values behind Arguments (Kiesel et al., ACL 2022).
+paper link: https://aclanthology.org/2022.acl-long.306.pdf
