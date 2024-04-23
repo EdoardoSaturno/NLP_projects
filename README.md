@@ -16,7 +16,7 @@ This repository contains projects that were part of my Master's Degree in Artifi
 - **Technologies:** Python, PyTorch, Transformers.
 - **Results:** For detailed results and analysis, please refer to the relative report.
 
-## PSI_Extraction_Healtcare 4: PAPER SELECTION AND INFORMATION EXTRACTION IN HEALTHCARE DOMAIN
+## PSI_Extraction_Healtcare : PAPER SELECTION AND INFORMATION EXTRACTION IN HEALTHCARE DOMAIN
 - **Description:** This project compares traditional TF-IDF representations with dense BERT representations in a paper selection and information extraction task within the healthcare domain. The task involves identifying relevant papers for a systematic review on Wilson's disease.
 - **Technologies:** Python, PyTorch, Transformers.
 - **Results:** Results highlight the superiority of more recent transformer-based dense representation of documents with respect to old sparse representations.
