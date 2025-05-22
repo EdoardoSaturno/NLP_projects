@@ -14,6 +14,6 @@ The challenge consists of two subtasks:
 
 ## Useful Links
 
-- 🔗 [Challenge Website](https://lcs2.in/SemEval2024-EDiReF/](https://semeval.github.io/SemEval2024/tasks)
+- 🔗 [Challenge Website](https://semeval.github.io/SemEval2024/tasks).
 - 📂 [Dataset Download](https://drive.google.com/drive/folders/16mFdhXGECdcyDjLs_alI43W4iNQK_47B)
 
