@@ -17,13 +17,6 @@ The goal is to replicate and adapt the approach described in the paper to classi
 - **Multi-Label Classification:** Each argument may be associated with multiple human values, requiring the model to handle overlapping label sets.
 - **Loss Function & Evaluation:** Binary cross-entropy loss and metrics such as micro/macro F1-score are used to evaluate performance.
 
-## Paper Details
-
-- Title: *Identifying the Human Values behind Arguments*
-- Authors: Jan-Christoph Kalo, Henning Wachsmuth, Iryna Gurevych, Benno Stein, and Matthias Kiesel
-- Conference: ACL 2022
-- 📄 [Link to paper](https://aclanthology.org/2022.acl-long.306.pdf)
-
 ## Future Work
 
 - Experiment with different transformer architectures and fine-tuning strategies
