@@ -1,4 +1,4 @@
-## 📄 Dataset Overview
+## Dataset Overview
 
 - **Dataset Name:** Appenzeller-Herzog_2020  
 - **Total Records:** 3,453  
