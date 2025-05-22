@@ -1,6 +1,6 @@
 # SemEval 2024 Task 10: Emotion Discovery and Reasoning its Flip in Conversation (EDiReF)
 
-This project was developed to participate in **SemEval 2024 Task 10: Emotion Discovery and Reasoning its Flip in Conversation (EDiReF)**.
+This project was developed based on the **SemEval 2024 Task 10: Emotion Discovery and Reasoning its Flip in Conversation (EDiReF)**.
 
 ## Task Definition
 
